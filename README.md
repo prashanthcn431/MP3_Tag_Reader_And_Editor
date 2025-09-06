@@ -110,7 +110,7 @@ INFO: Tag updated successfully!
   </ul>
 
   <h2>References &amp; Source</h2>
-  <p>Key source files in this repo: <code>mp3_tagreader.c</code> (CLI &amp; orchestration), <code>function.c</code> (parsing/editing functions) and <code>header_file.h</code> (declarations). :contentReference[oaicite:14]{index=14} :contentReference[oaicite:15]{index=15} :contentReference[oaicite:16]{index=16}</p>
+  <p>Key source files in this repo: <code>mp3_tagreader.c</code> (CLI &amp; orchestration), <code>function.c</code> (parsing/editing functions) and <code>header_file.h</code> (declarations). </p>
 
   <h2>License</h2>
   <p>Use as you like for learning and experimentation. Consider adding an explicit license file (e.g., <code>LICENSE</code>) such as MIT if you want to permit reuse.</p>
