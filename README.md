@@ -40,7 +40,8 @@
   <p>If a <code>Makefile</code> exists, simply run:</p>
   <pre><code>make</code></pre>
   <p>Or compile manually (example):</p>
-  <pre><code>gcc -o mp3_reader mp3_tagreader.c function.c</code></pre>
+  <pre><code>gcc To View tags in MP3 file  -->>>   ./a.out -v <filename>
+ To Edit a tag in MP3 file -->>>   ./a.out -e <filename> <tag_option> <new_value></code></pre>
   <p>If compiled without the <code>-o</code> option the produced binary will be <code>a.out</code>, which the original code's help messages reference. :contentReference[oaicite:3]{index=3}</p>
 
   <h2>Usage</h2>
