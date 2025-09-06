@@ -1,21 +1,6 @@
 # MP3_Tag_Reader_And_Editor
 
-<!doctype html>
-<html lang="en">
-<head>
-  <meta charset="utf-8" />
-  <title>MP3 Tag Reader &amp; Editor (ID3v2.3) — README</title>
-  <style>
-    body { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial; line-height:1.6; padding: 24px; color:#222; }
-    pre { background:#f6f8fa; border:1px solid #e1e4e8; padding:12px; overflow:auto; }
-    code { background:#f1f1f1; padding:2px 6px; border-radius:4px; }
-    h1,h2 { color:#0b5fff; }
-    .meta { color:#555; }
-    ul.features { margin-left: 1.1rem; }
-    .files li { margin: 6px 0; }
-  </style>
-</head>
-<body>
+
 
   <h1>MP3 Tag Reader &amp; Editor (ID3v2.3)</h1>
   <p class="meta">
