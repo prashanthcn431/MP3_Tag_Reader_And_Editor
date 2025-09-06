@@ -38,14 +38,14 @@
   <p>If a <code>Makefile</code> exists, simply run:</p>
   <pre><code>make</code></pre>
   <p>Or compile manually (example):</p>
-  <pre><code>gcc -o mp3_reader mp3_tagreader.c function.c</code></pre>
+  <pre><code>gcc *.c (Compile all .c files)</code></pre>
   <p>If compiled without the <code>-o</code> option the produced binary will be <code>a.out</code>, which the original code's help messages reference. :contentReference[oaicite:3]{index=3}</p>
 
   <h2>Usage</h2>
   <p>View tags</p>
-  <pre><code>./a.out -v filename &lt;filename.mp3&gt;</code></pre>
+  <pre><code>./a.out -v &lt;filename.mp3&gt;</code></pre>
   <p>Edit a tag</p>
-  <pre><code>./mp3_reader -e filename tag_option new_value  &lt;filename.mp3&gt; &lt;tag_option&gt; &lt;new_value&gt;</code></pre>
+  <pre><code>./a.out -e &lt;filename.mp3&gt; &lt;tag_option&gt; &lt;new_value&gt;</code></pre>
   <p>Tag options (as implemented):</p>
   <pre><code>-t  Title
 -a  Artist
